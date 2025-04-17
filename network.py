@@ -1,6 +1,3 @@
-#Arham Shams Sameer
-#1002078834
-
 class Link: #ink between two nodes with a cost
     def __init__(self, node1, node2, cost):
         self.node1 = node1
