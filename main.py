@@ -1,6 +1,3 @@
-#Arham Shams Sameer
-#1002078834
-
 import tkinter as tk
 from gui import DVRoutingGUI
 def main():
