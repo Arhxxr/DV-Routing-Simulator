@@ -1,6 +1,3 @@
-#Arham Shams Sameer
-#1002078834
-
 import time
 from network import Network
 
