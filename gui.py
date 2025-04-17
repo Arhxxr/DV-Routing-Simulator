@@ -1,6 +1,3 @@
-#Arham Shams Sameer
-#1002078834
-
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 import time
